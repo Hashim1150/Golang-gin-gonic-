@@ -1,2 +1,3 @@
 # Golang-gin-gonic-Async
-making user signup and user login .... with go routines and a sync for multiple request to handel 
+making user signup and user login .... with go routines and async for multiple request to handel...
+mongobd as database....using postman for testing the apis.
